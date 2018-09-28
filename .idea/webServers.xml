@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6db4ade9-6e2e-410a-b4d8-88b14798e79c" name="Famsa" url="http://www.lonchedeadobada.xyz/famsa">
+        <fileTransfer host="ftp.thealienmarketing.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
